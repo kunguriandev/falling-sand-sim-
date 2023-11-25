@@ -1,2 +1,2 @@
-# falling-sand-sim-
-A simple falling sand simulation made in c++ and SFML 
+# falling-sand-simulation
+A simple falling sand simulation made using c++ and SFML 
